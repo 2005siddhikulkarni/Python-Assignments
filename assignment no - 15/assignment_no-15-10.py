@@ -1,12 +1,21 @@
 
-CntEvenNo = lambda No : No % 2 == 0 
+from functools import reduce
+
+CntEvenNo = lambda No: No % 2 == 0
 
 def main():
-    lst = list(map(int, input("Enter numbers: ").split()))
+    lst = []
 
-    Result = list(map(CntEvenNo, lst))
-    print("Count of even numbers are: ",Result)
+    print("Enter the number: ")
+    No = int(input())
 
+    print("Enter the numbers: ")
+    for i in range(No):
+        Values = int(input())
+        lst.append(Values)
+
+    Result = list(filter(CntEvenNo, lst))
+    print("Count of even numbers is:", len(Result))
 
 if __name__ == "__main__":
     main()
