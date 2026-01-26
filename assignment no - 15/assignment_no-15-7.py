@@ -1,8 +1,8 @@
 
-LongString = lambda S : len(S) > 5
+ongString = lambda S : len(S) > 5
 
 def main():
-    lst =  input("Enter Strings : ").split()
+    lst =  input("Enter Strings : ")
 
     Result = list(filter(LongString, lst))
     print("Long String is: ",Result)
