@@ -16,6 +16,7 @@ def CopyContentsInFile(FileName1):
 
     file2 = open("Demo.txt", "w")
     Ret = file2.write(Data)
+    file2.close()
     
     print("File gets copied successfully ")
 
@@ -25,3 +26,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
