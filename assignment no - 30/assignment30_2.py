@@ -17,11 +17,10 @@ def CntWordsInFiles():
         Cnt += 1
     return Cnt
 
-    file.close()
-
 def main():
     Ret = CntWordsInFiles()
     print("Count of lines in file is: ",Ret)
 
 if __name__ == "__main__":
+
     main()
