@@ -19,10 +19,9 @@ def CopyContentsInFile(FileName1):
     
     print("File gets copied successfully ")
 
-    file2.colse()
-
 def main():
     CopyContentsInFile(sys.argv[1])
 
 if __name__ == "__main__":
+
     main()
