@@ -1,0 +1,1794 @@
+--------------------------------------------------
+------Marvellous Platform Surveillance System-----
+Log created at : Tue Feb 24 18:40:37 2026
+--------------------------------------------------
+
+CPU Usage : 5.5 %
+RAM Usage : 62.7 %
+--------------------------------------------------
+
+Top 10 Memory Consuming Processes
+--------------------------------------------------
+explorer.exe -> 2.99 %
+Code.exe -> 2.71 %
+chrome.exe -> 2.61 %
+Code.exe -> 2.42 %
+Code.exe -> 1.69 %
+WhatsApp.Root.exe -> 1.29 %
+chrome.exe -> 1.27 %
+msedge.exe -> 1.19 %
+OneDrive.exe -> 1.02 %
+chrome.exe -> 0.99 %
+--------------------------------------------------
+
+PID: 0
+Name: System Idle Process
+Username: NT AUTHORITY\SYSTEM
+Status: running
+Start Time: 1970-01-01 05:30:00
+CPU %: 1425.80
+Memory %: 0.00
+RSS (Actual Memory): 8192 bytes
+VMS (Virtual Memory): 61440 bytes
+Thread Count: 48
+Open Files: 0
+--------------------------------------------------
+PID: 4
+Name: System
+Username: NT AUTHORITY\SYSTEM
+Status: running
+Start Time: 1970-01-01 05:30:00
+CPU %: 5.60
+Memory %: 0.02
+RSS (Actual Memory): 3121152 bytes
+VMS (Virtual Memory): 57344 bytes
+Thread Count: 367
+Open Files: 0
+--------------------------------------------------
+PID: 456
+Name: chrome.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:37:06
+CPU %: 0.00
+Memory %: 0.20
+RSS (Actual Memory): 33583104 bytes
+VMS (Virtual Memory): 18022400 bytes
+Thread Count: 13
+Open Files: 9
+--------------------------------------------------
+PID: 1420
+Name: msedge.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:43:12
+CPU %: 0.00
+Memory %: 0.06
+RSS (Actual Memory): 9670656 bytes
+VMS (Virtual Memory): 2592768 bytes
+Thread Count: 7
+Open Files: 0
+--------------------------------------------------
+PID: 2204
+Name: svchost.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:24
+CPU %: 0.00
+Memory %: 0.15
+RSS (Actual Memory): 24920064 bytes
+VMS (Virtual Memory): 3969024 bytes
+Thread Count: 2
+Open Files: 7
+--------------------------------------------------
+PID: 2232
+Name: msedgewebview2.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:43:23
+CPU %: 0.00
+Memory %: 0.06
+RSS (Actual Memory): 9748480 bytes
+VMS (Virtual Memory): 2568192 bytes
+Thread Count: 7
+Open Files: 1
+--------------------------------------------------
+PID: 2472
+Name: ipf_helper.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:21
+CPU %: 0.90
+Memory %: 0.07
+RSS (Actual Memory): 12189696 bytes
+VMS (Virtual Memory): 2211840 bytes
+Thread Count: 7
+Open Files: 0
+--------------------------------------------------
+PID: 2564
+Name: msedgewebview2.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:43:23
+CPU %: 0.00
+Memory %: 0.15
+RSS (Actual Memory): 24973312 bytes
+VMS (Virtual Memory): 14368768 bytes
+Thread Count: 20
+Open Files: 19
+--------------------------------------------------
+PID: 2664
+Name: SecurityHealthSystray.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:56
+CPU %: 0.00
+Memory %: 0.08
+RSS (Actual Memory): 13357056 bytes
+VMS (Virtual Memory): 2002944 bytes
+Thread Count: 1
+Open Files: 1
+--------------------------------------------------
+PID: 2896
+Name: msedgewebview2.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:42:52
+CPU %: 0.00
+Memory %: 0.05
+RSS (Actual Memory): 8126464 bytes
+VMS (Virtual Memory): 83943424 bytes
+Thread Count: 24
+Open Files: 5
+--------------------------------------------------
+PID: 2956
+Name: FnHotkeyUtility.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:22
+CPU %: 0.00
+Memory %: 0.25
+RSS (Actual Memory): 42037248 bytes
+VMS (Virtual Memory): 60645376 bytes
+Thread Count: 13
+Open Files: 14
+--------------------------------------------------
+PID: 3528
+Name: dllhost.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:58:17
+CPU %: 0.00
+Memory %: 0.09
+RSS (Actual Memory): 14741504 bytes
+VMS (Virtual Memory): 2220032 bytes
+Thread Count: 2
+Open Files: 1
+--------------------------------------------------
+PID: 3548
+Name: conhost.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:23
+CPU %: 0.00
+Memory %: 0.04
+RSS (Actual Memory): 6987776 bytes
+VMS (Virtual Memory): 1196032 bytes
+Thread Count: 2
+Open Files: 1
+--------------------------------------------------
+PID: 4396
+Name: msedgewebview2.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:25
+CPU %: 0.00
+Memory %: 0.05
+RSS (Actual Memory): 9154560 bytes
+VMS (Virtual Memory): 2576384 bytes
+Thread Count: 7
+Open Files: 1
+--------------------------------------------------
+PID: 4684
+Name: msedgewebview2.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:42:27
+CPU %: 0.00
+Memory %: 0.77
+RSS (Actual Memory): 130154496 bytes
+VMS (Virtual Memory): 58695680 bytes
+Thread Count: 54
+Open Files: 154
+--------------------------------------------------
+PID: 4756
+Name: SearchHost.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:24
+CPU %: 0.00
+Memory %: 0.98
+RSS (Actual Memory): 166166528 bytes
+VMS (Virtual Memory): 82980864 bytes
+Thread Count: 27
+Open Files: 31
+--------------------------------------------------
+PID: 4932
+Name: WidgetBoard.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:24
+CPU %: 0.00
+Memory %: 0.60
+RSS (Actual Memory): 101879808 bytes
+VMS (Virtual Memory): 77307904 bytes
+Thread Count: 21
+Open Files: 14
+--------------------------------------------------
+PID: 5228
+Name: conhost.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:28:59
+CPU %: 0.00
+Memory %: 0.04
+RSS (Actual Memory): 7520256 bytes
+VMS (Virtual Memory): 1216512 bytes
+Thread Count: 2
+Open Files: 1
+--------------------------------------------------
+PID: 5328
+Name: msedgewebview2.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:42:28
+CPU %: 0.00
+Memory %: 0.22
+RSS (Actual Memory): 37384192 bytes
+VMS (Virtual Memory): 21983232 bytes
+Thread Count: 14
+Open Files: 21
+--------------------------------------------------
+PID: 6300
+Name: msedgewebview2.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:42:28
+CPU %: 0.00
+Memory %: 0.87
+RSS (Actual Memory): 147259392 bytes
+VMS (Virtual Memory): 102588416 bytes
+Thread Count: 28
+Open Files: 37
+--------------------------------------------------
+PID: 6764
+Name: conhost.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:05:29
+CPU %: 0.00
+Memory %: 0.06
+RSS (Actual Memory): 10072064 bytes
+VMS (Virtual Memory): 1748992 bytes
+Thread Count: 3
+Open Files: 4
+--------------------------------------------------
+PID: 7312
+Name: svchost.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:35
+CPU %: 0.00
+Memory %: 0.09
+RSS (Actual Memory): 15511552 bytes
+VMS (Virtual Memory): 2453504 bytes
+Thread Count: 5
+Open Files: 2
+--------------------------------------------------
+PID: 7400
+Name: AppActions.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:47:24
+CPU %: 0.00
+Memory %: 0.27
+RSS (Actual Memory): 44859392 bytes
+VMS (Virtual Memory): 13594624 bytes
+Thread Count: 7
+Open Files: 0
+--------------------------------------------------
+PID: 7632
+Name: Code.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:28:59
+CPU %: 0.00
+Memory %: 0.80
+RSS (Actual Memory): 134647808 bytes
+VMS (Virtual Memory): 122957824 bytes
+Thread Count: 12
+Open Files: 5
+--------------------------------------------------
+PID: 7664
+Name: msedgewebview2.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:42:56
+CPU %: 0.00
+Memory %: 0.01
+RSS (Actual Memory): 2158592 bytes
+VMS (Virtual Memory): 9805824 bytes
+Thread Count: 9
+Open Files: 7
+--------------------------------------------------
+PID: 7716
+Name: UserSSCtrl.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:28
+CPU %: 0.00
+Memory %: 0.16
+RSS (Actual Memory): 27709440 bytes
+VMS (Virtual Memory): 23138304 bytes
+Thread Count: 5
+Open Files: 8
+--------------------------------------------------
+PID: 7780
+Name: conhost.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:21
+CPU %: 0.00
+Memory %: 0.06
+RSS (Actual Memory): 9564160 bytes
+VMS (Virtual Memory): 1769472 bytes
+Thread Count: 3
+Open Files: 4
+--------------------------------------------------
+PID: 8352
+Name: RuntimeBroker.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:42:52
+CPU %: 0.00
+Memory %: 0.07
+RSS (Actual Memory): 11870208 bytes
+VMS (Virtual Memory): 2097152 bytes
+Thread Count: 2
+Open Files: 0
+--------------------------------------------------
+PID: 9316
+Name: ShellExperienceHost.exe
+Username: SIDDHI\siddh
+Status: stopped
+Start Time: 2026-02-24 17:41:27
+CPU %: 0.00
+Memory %: 0.67
+RSS (Actual Memory): 113340416 bytes
+VMS (Virtual Memory): 46882816 bytes
+Thread Count: 20
+Open Files: 9
+--------------------------------------------------
+PID: 9704
+Name: pet.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:28:59
+CPU %: 0.00
+Memory %: 0.06
+RSS (Actual Memory): 9408512 bytes
+VMS (Virtual Memory): 1998848 bytes
+Thread Count: 1
+Open Files: 3
+--------------------------------------------------
+PID: 9868
+Name: Code.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:28:57
+CPU %: 0.70
+Memory %: 2.42
+RSS (Actual Memory): 408801280 bytes
+VMS (Virtual Memory): 374861824 bytes
+Thread Count: 26
+Open Files: 25
+--------------------------------------------------
+PID: 10004
+Name: ms-teams.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:42:54
+CPU %: 0.00
+Memory %: 0.18
+RSS (Actual Memory): 30687232 bytes
+VMS (Virtual Memory): 79097856 bytes
+Thread Count: 87
+Open Files: 27
+--------------------------------------------------
+PID: 10448
+Name: msedgewebview2.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:42:52
+CPU %: 0.00
+Memory %: 0.01
+RSS (Actual Memory): 2035712 bytes
+VMS (Virtual Memory): 9715712 bytes
+Thread Count: 10
+Open Files: 16
+--------------------------------------------------
+PID: 10836
+Name: browser_assistant.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:43:02
+CPU %: 0.00
+Memory %: 0.15
+RSS (Actual Memory): 24514560 bytes
+VMS (Virtual Memory): 6742016 bytes
+Thread Count: 11
+Open Files: 4
+--------------------------------------------------
+PID: 11348
+Name: RuntimeBroker.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:46:25
+CPU %: 0.00
+Memory %: 0.07
+RSS (Actual Memory): 11362304 bytes
+VMS (Virtual Memory): 2240512 bytes
+Thread Count: 2
+Open Files: 1
+--------------------------------------------------
+PID: 11612
+Name: Code.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:28:57
+CPU %: 0.00
+Memory %: 0.80
+RSS (Actual Memory): 135557120 bytes
+VMS (Virtual Memory): 102277120 bytes
+Thread Count: 27
+Open Files: 9
+--------------------------------------------------
+PID: 11784
+Name: conhost.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:05:29
+CPU %: 0.00
+Memory %: 0.06
+RSS (Actual Memory): 10170368 bytes
+VMS (Virtual Memory): 1630208 bytes
+Thread Count: 3
+Open Files: 4
+--------------------------------------------------
+PID: 12108
+Name: msedgewebview2.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:42:27
+CPU %: 0.00
+Memory %: 0.60
+RSS (Actual Memory): 102133760 bytes
+VMS (Virtual Memory): 99328000 bytes
+Thread Count: 23
+Open Files: 5
+--------------------------------------------------
+PID: 12576
+Name: EdgeGameAssist.exe
+Username: SIDDHI\siddh
+Status: stopped
+Start Time: 2026-02-24 17:43:19
+CPU %: 0.00
+Memory %: 0.38
+RSS (Actual Memory): 63827968 bytes
+VMS (Virtual Memory): 38457344 bytes
+Thread Count: 16
+Open Files: 15
+--------------------------------------------------
+PID: 12628
+Name: RuntimeBroker.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:44:12
+CPU %: 0.00
+Memory %: 0.18
+RSS (Actual Memory): 29913088 bytes
+VMS (Virtual Memory): 8007680 bytes
+Thread Count: 3
+Open Files: 2
+--------------------------------------------------
+PID: 12844
+Name: taskhostw.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:22
+CPU %: 0.00
+Memory %: 0.15
+RSS (Actual Memory): 24522752 bytes
+VMS (Virtual Memory): 8589312 bytes
+Thread Count: 8
+Open Files: 8
+--------------------------------------------------
+PID: 13056
+Name: OneDrive.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:42:14
+CPU %: 1.40
+Memory %: 1.02
+RSS (Actual Memory): 172109824 bytes
+VMS (Virtual Memory): 146305024 bytes
+Thread Count: 45
+Open Files: 50
+--------------------------------------------------
+PID: 13108
+Name: conhost.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:28:59
+CPU %: 0.00
+Memory %: 0.05
+RSS (Actual Memory): 8638464 bytes
+VMS (Virtual Memory): 1425408 bytes
+Thread Count: 5
+Open Files: 1
+--------------------------------------------------
+PID: 13332
+Name: msedgewebview2.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:25
+CPU %: 0.00
+Memory %: 0.03
+RSS (Actual Memory): 5517312 bytes
+VMS (Virtual Memory): 79241216 bytes
+Thread Count: 21
+Open Files: 5
+--------------------------------------------------
+PID: 13380
+Name: msedgewebview2.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:42:27
+CPU %: 0.00
+Memory %: 0.25
+RSS (Actual Memory): 42508288 bytes
+VMS (Virtual Memory): 15339520 bytes
+Thread Count: 26
+Open Files: 24
+--------------------------------------------------
+PID: 13416
+Name: Code.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:28:57
+CPU %: 0.00
+Memory %: 0.80
+RSS (Actual Memory): 135864320 bytes
+VMS (Virtual Memory): 101543936 bytes
+Thread Count: 24
+Open Files: 7
+--------------------------------------------------
+PID: 13496
+Name: svchost.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:35
+CPU %: 0.00
+Memory %: 0.11
+RSS (Actual Memory): 19202048 bytes
+VMS (Virtual Memory): 2678784 bytes
+Thread Count: 4
+Open Files: 3
+--------------------------------------------------
+PID: 13760
+Name: crashpad_handler.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:46:20
+CPU %: 0.00
+Memory %: 0.05
+RSS (Actual Memory): 7815168 bytes
+VMS (Virtual Memory): 1536000 bytes
+Thread Count: 7
+Open Files: 0
+--------------------------------------------------
+PID: 13856
+Name: ShellHost.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:51:44
+CPU %: 0.00
+Memory %: 0.83
+RSS (Actual Memory): 139776000 bytes
+VMS (Virtual Memory): 68710400 bytes
+Thread Count: 38
+Open Files: 16
+--------------------------------------------------
+PID: 14356
+Name: XboxPcAppFT.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:43:17
+CPU %: 0.10
+Memory %: 0.34
+RSS (Actual Memory): 57552896 bytes
+VMS (Virtual Memory): 10792960 bytes
+Thread Count: 14
+Open Files: 16
+--------------------------------------------------
+PID: 14660
+Name: CrossDeviceResume.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:22
+CPU %: 0.00
+Memory %: 0.35
+RSS (Actual Memory): 59682816 bytes
+VMS (Virtual Memory): 36667392 bytes
+Thread Count: 6
+Open Files: 6
+--------------------------------------------------
+PID: 14748
+Name: ApplicationFrameHost.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:43:17
+CPU %: 0.00
+Memory %: 0.29
+RSS (Actual Memory): 48730112 bytes
+VMS (Virtual Memory): 8069120 bytes
+Thread Count: 3
+Open Files: 9
+--------------------------------------------------
+PID: 15072
+Name: browserhost.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:05:29
+CPU %: 0.00
+Memory %: 0.11
+RSS (Actual Memory): 17956864 bytes
+VMS (Virtual Memory): 7667712 bytes
+Thread Count: 46
+Open Files: 0
+--------------------------------------------------
+PID: 15264
+Name: msedge.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:43:12
+CPU %: 0.00
+Memory %: 0.29
+RSS (Actual Memory): 48148480 bytes
+VMS (Virtual Memory): 21274624 bytes
+Thread Count: 22
+Open Files: 19
+--------------------------------------------------
+PID: 15572
+Name: powershell.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:28:59
+CPU %: 0.00
+Memory %: 0.46
+RSS (Actual Memory): 78327808 bytes
+VMS (Virtual Memory): 56135680 bytes
+Thread Count: 12
+Open Files: 12
+--------------------------------------------------
+PID: 15600
+Name: svchost.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:24
+CPU %: 0.10
+Memory %: 0.16
+RSS (Actual Memory): 26894336 bytes
+VMS (Virtual Memory): 4042752 bytes
+Thread Count: 5
+Open Files: 1
+--------------------------------------------------
+PID: 15624
+Name: RuntimeBroker.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:28
+CPU %: 0.00
+Memory %: 0.15
+RSS (Actual Memory): 24686592 bytes
+VMS (Virtual Memory): 3141632 bytes
+Thread Count: 3
+Open Files: 2
+--------------------------------------------------
+PID: 15712
+Name: msedge.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:44:12
+CPU %: 0.00
+Memory %: 0.17
+RSS (Actual Memory): 28803072 bytes
+VMS (Virtual Memory): 10219520 bytes
+Thread Count: 10
+Open Files: 6
+--------------------------------------------------
+PID: 15724
+Name: Code.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:28:56
+CPU %: 0.00
+Memory %: 0.20
+RSS (Actual Memory): 33681408 bytes
+VMS (Virtual Memory): 10883072 bytes
+Thread Count: 7
+Open Files: 2
+--------------------------------------------------
+PID: 15936
+Name: RuntimeBroker.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:25
+CPU %: 0.00
+Memory %: 0.08
+RSS (Actual Memory): 14270464 bytes
+VMS (Virtual Memory): 2404352 bytes
+Thread Count: 1
+Open Files: 0
+--------------------------------------------------
+PID: 15952
+Name: MessagingPlugin.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:23
+CPU %: 0.00
+Memory %: 0.24
+RSS (Actual Memory): 39882752 bytes
+VMS (Virtual Memory): 50270208 bytes
+Thread Count: 13
+Open Files: 9
+--------------------------------------------------
+PID: 16104
+Name: FileCoAuth.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:42:35
+CPU %: 0.50
+Memory %: 0.17
+RSS (Actual Memory): 29216768 bytes
+VMS (Virtual Memory): 10661888 bytes
+Thread Count: 6
+Open Files: 1
+--------------------------------------------------
+PID: 16168
+Name: conhost.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:39:15
+CPU %: 0.00
+Memory %: 0.06
+RSS (Actual Memory): 10539008 bytes
+VMS (Virtual Memory): 1589248 bytes
+Thread Count: 4
+Open Files: 1
+--------------------------------------------------
+PID: 16360
+Name: StartMenuExperienceHost.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:24
+CPU %: 0.00
+Memory %: 0.91
+RSS (Actual Memory): 153960448 bytes
+VMS (Virtual Memory): 92221440 bytes
+Thread Count: 19
+Open Files: 20
+--------------------------------------------------
+PID: 16376
+Name: OpenConsole.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:39:15
+CPU %: 2.30
+Memory %: 0.10
+RSS (Actual Memory): 16900096 bytes
+VMS (Virtual Memory): 3010560 bytes
+Thread Count: 9
+Open Files: 2
+--------------------------------------------------
+PID: 16420
+Name: WidgetService.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:25
+CPU %: 0.00
+Memory %: 0.17
+RSS (Actual Memory): 29302784 bytes
+VMS (Virtual Memory): 5844992 bytes
+Thread Count: 6
+Open Files: 10
+--------------------------------------------------
+PID: 16760
+Name: RuntimeBroker.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:07:25
+CPU %: 0.00
+Memory %: 0.19
+RSS (Actual Memory): 31248384 bytes
+VMS (Virtual Memory): 5095424 bytes
+Thread Count: 3
+Open Files: 2
+--------------------------------------------------
+PID: 17464
+Name: msedge.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:43:20
+CPU %: 0.00
+Memory %: 0.29
+RSS (Actual Memory): 49635328 bytes
+VMS (Virtual Memory): 41017344 bytes
+Thread Count: 29
+Open Files: 21
+--------------------------------------------------
+PID: 17512
+Name: PhoneExperienceHost.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:30
+CPU %: 0.00
+Memory %: 0.97
+RSS (Actual Memory): 163385344 bytes
+VMS (Virtual Memory): 75202560 bytes
+Thread Count: 19
+Open Files: 159
+--------------------------------------------------
+PID: 18140
+Name: SDXHelper.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:45
+CPU %: 0.10
+Memory %: 0.20
+RSS (Actual Memory): 33480704 bytes
+VMS (Virtual Memory): 18604032 bytes
+Thread Count: 20
+Open Files: 12
+--------------------------------------------------
+PID: 18256
+Name: cmd.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:39:15
+CPU %: 0.00
+Memory %: 0.04
+RSS (Actual Memory): 5943296 bytes
+VMS (Virtual Memory): 2269184 bytes
+Thread Count: 1
+Open Files: 1
+--------------------------------------------------
+PID: 18380
+Name: Code.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:28:56
+CPU %: 0.10
+Memory %: 0.31
+RSS (Actual Memory): 52019200 bytes
+VMS (Virtual Memory): 15142912 bytes
+Thread Count: 21
+Open Files: 16
+--------------------------------------------------
+PID: 19016
+Name: sihost.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:22
+CPU %: 0.00
+Memory %: 0.31
+RSS (Actual Memory): 52895744 bytes
+VMS (Virtual Memory): 9228288 bytes
+Thread Count: 20
+Open Files: 3
+--------------------------------------------------
+PID: 19160
+Name: browser_assistant.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:43:02
+CPU %: 0.00
+Memory %: 0.07
+RSS (Actual Memory): 12181504 bytes
+VMS (Virtual Memory): 3796992 bytes
+Thread Count: 7
+Open Files: 0
+--------------------------------------------------
+PID: 19232
+Name: msedgewebview2.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:42:52
+CPU %: 0.00
+Memory %: 0.06
+RSS (Actual Memory): 9433088 bytes
+VMS (Virtual Memory): 2588672 bytes
+Thread Count: 7
+Open Files: 1
+--------------------------------------------------
+PID: 19560
+Name: msedge.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:43:12
+CPU %: 0.00
+Memory %: 0.38
+RSS (Actual Memory): 64802816 bytes
+VMS (Virtual Memory): 98848768 bytes
+Thread Count: 25
+Open Files: 4
+--------------------------------------------------
+PID: 19640
+Name: svchost.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:22
+CPU %: 0.00
+Memory %: 0.27
+RSS (Actual Memory): 45490176 bytes
+VMS (Virtual Memory): 10526720 bytes
+Thread Count: 5
+Open Files: 8
+--------------------------------------------------
+PID: 19836
+Name: Code.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:28:57
+CPU %: 0.00
+Memory %: 0.71
+RSS (Actual Memory): 120168448 bytes
+VMS (Virtual Memory): 88432640 bytes
+Thread Count: 27
+Open Files: 8
+--------------------------------------------------
+PID: 20108
+Name: msedgewebview2.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:43:25
+CPU %: 0.40
+Memory %: 0.61
+RSS (Actual Memory): 103473152 bytes
+VMS (Virtual Memory): 284123136 bytes
+Thread Count: 34
+Open Files: 34
+--------------------------------------------------
+PID: 20140
+Name: svchost.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:22
+CPU %: 0.00
+Memory %: 0.05
+RSS (Actual Memory): 7794688 bytes
+VMS (Virtual Memory): 1323008 bytes
+Thread Count: 2
+Open Files: 1
+--------------------------------------------------
+PID: 20560
+Name: MicrosoftStartFeedProvider.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:26
+CPU %: 0.00
+Memory %: 0.27
+RSS (Actual Memory): 45428736 bytes
+VMS (Virtual Memory): 10649600 bytes
+Thread Count: 13
+Open Files: 12
+--------------------------------------------------
+PID: 20880
+Name: python.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:39:37
+CPU %: 88.60
+Memory %: 0.14
+RSS (Actual Memory): 23830528 bytes
+VMS (Virtual Memory): 15855616 bytes
+Thread Count: 3
+Open Files: 2
+--------------------------------------------------
+PID: 20968
+Name: AutoModeDetect.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:21
+CPU %: 0.00
+Memory %: 0.09
+RSS (Actual Memory): 14716928 bytes
+VMS (Virtual Memory): 3244032 bytes
+Thread Count: 9
+Open Files: Access Denied
+--------------------------------------------------
+PID: 21000
+Name: msedgewebview2.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:42:27
+CPU %: 0.00
+Memory %: 0.06
+RSS (Actual Memory): 9318400 bytes
+VMS (Virtual Memory): 2551808 bytes
+Thread Count: 7
+Open Files: 1
+--------------------------------------------------
+PID: 21216
+Name: ctfmon.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:29
+CPU %: 0.00
+Memory %: 0.22
+RSS (Actual Memory): 36888576 bytes
+VMS (Virtual Memory): 8171520 bytes
+Thread Count: 12
+Open Files: Access Denied
+--------------------------------------------------
+PID: 21260
+Name: msedgewebview2.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:42:27
+CPU %: 0.00
+Memory %: 0.12
+RSS (Actual Memory): 20492288 bytes
+VMS (Virtual Memory): 11067392 bytes
+Thread Count: 9
+Open Files: 19
+--------------------------------------------------
+PID: 21320
+Name: chrome.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:05:27
+CPU %: 0.00
+Memory %: 0.06
+RSS (Actual Memory): 9519104 bytes
+VMS (Virtual Memory): 2510848 bytes
+Thread Count: 7
+Open Files: 1
+--------------------------------------------------
+PID: 21380
+Name: chrome.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:05:27
+CPU %: 0.00
+Memory %: 0.12
+RSS (Actual Memory): 20160512 bytes
+VMS (Virtual Memory): 9940992 bytes
+Thread Count: 11
+Open Files: 25
+--------------------------------------------------
+PID: 21480
+Name: chrome.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:05:28
+CPU %: 0.00
+Memory %: 0.45
+RSS (Actual Memory): 75534336 bytes
+VMS (Virtual Memory): 71942144 bytes
+Thread Count: 28
+Open Files: 9
+--------------------------------------------------
+PID: 22052
+Name: msedgewebview2.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:25
+CPU %: 0.00
+Memory %: 0.09
+RSS (Actual Memory): 15360000 bytes
+VMS (Virtual Memory): 49569792 bytes
+Thread Count: 51
+Open Files: 144
+--------------------------------------------------
+PID: 22268
+Name: Code.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:28:56
+CPU %: 1.50
+Memory %: 0.86
+RSS (Actual Memory): 145891328 bytes
+VMS (Virtual Memory): 104194048 bytes
+Thread Count: 52
+Open Files: 59
+--------------------------------------------------
+PID: 22300
+Name: msedge.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:06:34
+CPU %: 0.00
+Memory %: 0.19
+RSS (Actual Memory): 31498240 bytes
+VMS (Virtual Memory): 19181568 bytes
+Thread Count: 15
+Open Files: 8
+--------------------------------------------------
+PID: 22660
+Name: Code.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:28:56
+CPU %: 4.50
+Memory %: 1.69
+RSS (Actual Memory): 285224960 bytes
+VMS (Virtual Memory): 248692736 bytes
+Thread Count: 29
+Open Files: 53
+--------------------------------------------------
+PID: 22688
+Name: conhost.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:28:59
+CPU %: 0.00
+Memory %: 0.04
+RSS (Actual Memory): 7503872 bytes
+VMS (Virtual Memory): 1212416 bytes
+Thread Count: 2
+Open Files: 1
+--------------------------------------------------
+PID: 22820
+Name: msedge.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:43:20
+CPU %: 0.00
+Memory %: 0.29
+RSS (Actual Memory): 49086464 bytes
+VMS (Virtual Memory): 37916672 bytes
+Thread Count: 29
+Open Files: 21
+--------------------------------------------------
+PID: 22912
+Name: msedgewebview2.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:42:52
+CPU %: 0.00
+Memory %: 0.10
+RSS (Actual Memory): 16949248 bytes
+VMS (Virtual Memory): 279490560 bytes
+Thread Count: 33
+Open Files: 21
+--------------------------------------------------
+PID: 22936
+Name: Code.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:28:56
+CPU %: 1.00
+Memory %: 0.90
+RSS (Actual Memory): 152719360 bytes
+VMS (Virtual Memory): 120754176 bytes
+Thread Count: 22
+Open Files: 5
+--------------------------------------------------
+PID: 22944
+Name: conhost.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:21
+CPU %: 0.00
+Memory %: 0.06
+RSS (Actual Memory): 9445376 bytes
+VMS (Virtual Memory): 1634304 bytes
+Thread Count: 3
+Open Files: Access Denied
+--------------------------------------------------
+PID: 22972
+Name: unsecapp.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:28
+CPU %: 0.00
+Memory %: 0.07
+RSS (Actual Memory): 11988992 bytes
+VMS (Virtual Memory): 2387968 bytes
+Thread Count: 3
+Open Files: 0
+--------------------------------------------------
+PID: 23008
+Name: cmd.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:05:29
+CPU %: 0.00
+Memory %: 0.03
+RSS (Actual Memory): 4952064 bytes
+VMS (Virtual Memory): 1970176 bytes
+Thread Count: 1
+Open Files: 0
+--------------------------------------------------
+PID: 23424
+Name: explorer.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:22
+CPU %: 18.90
+Memory %: 2.99
+RSS (Actual Memory): 505421824 bytes
+VMS (Virtual Memory): 454881280 bytes
+Thread Count: 154
+Open Files: 74
+--------------------------------------------------
+PID: 23584
+Name: msedgewebview2.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:43:23
+CPU %: 0.00
+Memory %: 0.02
+RSS (Actual Memory): 3182592 bytes
+VMS (Virtual Memory): 9347072 bytes
+Thread Count: 9
+Open Files: 16
+--------------------------------------------------
+PID: 23876
+Name: svchost.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:43:22
+CPU %: 0.00
+Memory %: 0.15
+RSS (Actual Memory): 25165824 bytes
+VMS (Virtual Memory): 5906432 bytes
+Thread Count: 4
+Open Files: 6
+--------------------------------------------------
+PID: 23948
+Name: LsaServerPartner.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:22
+CPU %: 0.00
+Memory %: 0.06
+RSS (Actual Memory): 9908224 bytes
+VMS (Virtual Memory): 1843200 bytes
+Thread Count: 4
+Open Files: 0
+--------------------------------------------------
+PID: 23988
+Name: chrome.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:05:28
+CPU %: 0.00
+Memory %: 2.61
+RSS (Actual Memory): 440717312 bytes
+VMS (Virtual Memory): 397926400 bytes
+Thread Count: 30
+Open Files: 58
+--------------------------------------------------
+PID: 24008
+Name: msedgewebview2.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:26
+CPU %: 0.00
+Memory %: 0.00
+RSS (Actual Memory): 544768 bytes
+VMS (Virtual Memory): 99680256 bytes
+Thread Count: 30
+Open Files: 35
+--------------------------------------------------
+PID: 24044
+Name: FnHotkeyCapsLKNumLK.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:22
+CPU %: 0.00
+Memory %: 0.10
+RSS (Actual Memory): 17465344 bytes
+VMS (Virtual Memory): 20865024 bytes
+Thread Count: 2
+Open Files: Access Denied
+--------------------------------------------------
+PID: 24072
+Name: XboxPcTray.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:43:16
+CPU %: 0.00
+Memory %: 0.40
+RSS (Actual Memory): 67661824 bytes
+VMS (Virtual Memory): 38297600 bytes
+Thread Count: 11
+Open Files: 16
+--------------------------------------------------
+PID: 24160
+Name: AccountsControlHost.exe
+Username: SIDDHI\siddh
+Status: stopped
+Start Time: 2026-02-24 17:43:20
+CPU %: 0.00
+Memory %: 0.39
+RSS (Actual Memory): 66174976 bytes
+VMS (Virtual Memory): 36237312 bytes
+Thread Count: 15
+Open Files: 6
+--------------------------------------------------
+PID: 24196
+Name: svchost.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:22
+CPU %: 0.00
+Memory %: 0.25
+RSS (Actual Memory): 42934272 bytes
+VMS (Virtual Memory): 13152256 bytes
+Thread Count: 12
+Open Files: 7
+--------------------------------------------------
+PID: 24204
+Name: Code.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:29:00
+CPU %: 0.00
+Memory %: 2.71
+RSS (Actual Memory): 458035200 bytes
+VMS (Virtual Memory): 428138496 bytes
+Thread Count: 11
+Open Files: 19
+--------------------------------------------------
+PID: 24492
+Name: mc-fw-host.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:21
+CPU %: 0.00
+Memory %: 0.17
+RSS (Actual Memory): 28241920 bytes
+VMS (Virtual Memory): 10932224 bytes
+Thread Count: 46
+Open Files: Access Denied
+--------------------------------------------------
+PID: 24524
+Name: chrome.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:05:27
+CPU %: 0.00
+Memory %: 0.99
+RSS (Actual Memory): 166604800 bytes
+VMS (Virtual Memory): 206852096 bytes
+Thread Count: 24
+Open Files: 3
+--------------------------------------------------
+PID: 24852
+Name: chrome.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:05:27
+CPU %: 0.10
+Memory %: 0.31
+RSS (Actual Memory): 51617792 bytes
+VMS (Virtual Memory): 21098496 bytes
+Thread Count: 19
+Open Files: 21
+--------------------------------------------------
+PID: 24976
+Name: SpotifyWidgetProvider.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:46:20
+CPU %: 0.00
+Memory %: 0.22
+RSS (Actual Memory): 37355520 bytes
+VMS (Virtual Memory): 5980160 bytes
+Thread Count: 11
+Open Files: 8
+--------------------------------------------------
+PID: 25080
+Name: msedge.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:43:12
+CPU %: 0.00
+Memory %: 0.12
+RSS (Actual Memory): 20262912 bytes
+VMS (Virtual Memory): 10760192 bytes
+Thread Count: 11
+Open Files: 18
+--------------------------------------------------
+PID: 25664
+Name: chrome.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:14:41
+CPU %: 0.00
+Memory %: 0.59
+RSS (Actual Memory): 99684352 bytes
+VMS (Virtual Memory): 38682624 bytes
+Thread Count: 23
+Open Files: 27
+--------------------------------------------------
+PID: 25704
+Name: msedgewebview2.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:42:52
+CPU %: 0.10
+Memory %: 0.11
+RSS (Actual Memory): 18153472 bytes
+VMS (Virtual Memory): 53862400 bytes
+Thread Count: 57
+Open Files: 113
+--------------------------------------------------
+PID: 25724
+Name: nierserver.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:44:02
+CPU %: 0.00
+Memory %: 0.06
+RSS (Actual Memory): 9682944 bytes
+VMS (Virtual Memory): 1904640 bytes
+Thread Count: 2
+Open Files: 0
+--------------------------------------------------
+PID: 25756
+Name: LsaToast.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:22
+CPU %: 0.00
+Memory %: 0.36
+RSS (Actual Memory): 61349888 bytes
+VMS (Virtual Memory): 66543616 bytes
+Thread Count: 10
+Open Files: 20
+--------------------------------------------------
+PID: 25804
+Name: backgroundTaskHost.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:46:25
+CPU %: 0.00
+Memory %: 0.03
+RSS (Actual Memory): 4886528 bytes
+VMS (Virtual Memory): 8081408 bytes
+Thread Count: 4
+Open Files: 2
+--------------------------------------------------
+PID: 25944
+Name: msedge.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:06:35
+CPU %: 0.00
+Memory %: 0.74
+RSS (Actual Memory): 125427712 bytes
+VMS (Virtual Memory): 93134848 bytes
+Thread Count: 30
+Open Files: 44
+--------------------------------------------------
+PID: 26236
+Name: pet.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:28:59
+CPU %: 0.00
+Memory %: 0.06
+RSS (Actual Memory): 10637312 bytes
+VMS (Virtual Memory): 3342336 bytes
+Thread Count: 17
+Open Files: 3
+--------------------------------------------------
+PID: 26440
+Name: chrome.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:05:27
+CPU %: 0.60
+Memory %: 1.27
+RSS (Actual Memory): 214982656 bytes
+VMS (Virtual Memory): 108302336 bytes
+Thread Count: 46
+Open Files: 204
+--------------------------------------------------
+PID: 26692
+Name: RuntimeBroker.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:43:22
+CPU %: 0.00
+Memory %: 0.08
+RSS (Actual Memory): 13877248 bytes
+VMS (Virtual Memory): 2420736 bytes
+Thread Count: 2
+Open Files: 0
+--------------------------------------------------
+PID: 26748
+Name: backgroundTaskHost.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:07:25
+CPU %: 0.00
+Memory %: 0.35
+RSS (Actual Memory): 58966016 bytes
+VMS (Virtual Memory): 25239552 bytes
+Thread Count: 8
+Open Files: 2
+--------------------------------------------------
+PID: 26824
+Name: GlobalPresenter.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:44:15
+CPU %: 0.20
+Memory %: 0.84
+RSS (Actual Memory): 142594048 bytes
+VMS (Virtual Memory): 193826816 bytes
+Thread Count: 22
+Open Files: 62
+--------------------------------------------------
+PID: 27116
+Name: cmd.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:05:29
+CPU %: 0.00
+Memory %: 0.03
+RSS (Actual Memory): 4960256 bytes
+VMS (Virtual Memory): 1970176 bytes
+Thread Count: 1
+Open Files: 0
+--------------------------------------------------
+PID: 27616
+Name: msedgewebview2.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:43:23
+CPU %: 0.50
+Memory %: 0.38
+RSS (Actual Memory): 64442368 bytes
+VMS (Virtual Memory): 67657728 bytes
+Thread Count: 54
+Open Files: 139
+--------------------------------------------------
+PID: 27800
+Name: OneDrive.Sync.Service.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:47
+CPU %: 0.00
+Memory %: 0.09
+RSS (Actual Memory): 14934016 bytes
+VMS (Virtual Memory): 43704320 bytes
+Thread Count: 20
+Open Files: 20
+--------------------------------------------------
+PID: 27804
+Name: WhatsApp.Root.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:43:22
+CPU %: 0.20
+Memory %: 1.29
+RSS (Actual Memory): 217907200 bytes
+VMS (Virtual Memory): 105881600 bytes
+Thread Count: 35
+Open Files: 121
+--------------------------------------------------
+PID: 27860
+Name: msedge.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:43:12
+CPU %: 0.10
+Memory %: 1.19
+RSS (Actual Memory): 200155136 bytes
+VMS (Virtual Memory): 88174592 bytes
+Thread Count: 64
+Open Files: 145
+--------------------------------------------------
+PID: 27984
+Name: CrossDeviceService.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:23
+CPU %: 0.00
+Memory %: 0.52
+RSS (Actual Memory): 88473600 bytes
+VMS (Virtual Memory): 25374720 bytes
+Thread Count: 12
+Open Files: 119
+--------------------------------------------------
+PID: 28060
+Name: uihost.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:21
+CPU %: 0.00
+Memory %: 0.22
+RSS (Actual Memory): 37974016 bytes
+VMS (Virtual Memory): 24686592 bytes
+Thread Count: 65
+Open Files: 3
+--------------------------------------------------
+PID: 28368
+Name: msedgewebview2.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:43:23
+CPU %: 0.00
+Memory %: 0.05
+RSS (Actual Memory): 8376320 bytes
+VMS (Virtual Memory): 29519872 bytes
+Thread Count: 15
+Open Files: 3
+--------------------------------------------------
+PID: 28652
+Name: unsecapp.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:22
+CPU %: 0.00
+Memory %: 0.07
+RSS (Actual Memory): 11857920 bytes
+VMS (Virtual Memory): 2330624 bytes
+Thread Count: 3
+Open Files: Access Denied
+--------------------------------------------------
+PID: 29184
+Name: smartscreen.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:38:50
+CPU %: 0.00
+Memory %: 0.08
+RSS (Actual Memory): 12984320 bytes
+VMS (Virtual Memory): 2654208 bytes
+Thread Count: 3
+Open Files: 1
+--------------------------------------------------
+PID: 29588
+Name: WindowsTerminal.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:39:16
+CPU %: 0.60
+Memory %: 0.75
+RSS (Actual Memory): 127123456 bytes
+VMS (Virtual Memory): 67973120 bytes
+Thread Count: 16
+Open Files: 11
+--------------------------------------------------
+PID: 29632
+Name: chrome.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:14:50
+CPU %: 0.00
+Memory %: 0.14
+RSS (Actual Memory): 23703552 bytes
+VMS (Virtual Memory): 9097216 bytes
+Thread Count: 10
+Open Files: 6
+--------------------------------------------------
+PID: 29640
+Name: mc-extn-browserhost.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:05:29
+CPU %: 0.00
+Memory %: 0.11
+RSS (Actual Memory): 18870272 bytes
+VMS (Virtual Memory): 7688192 bytes
+Thread Count: 49
+Open Files: 2
+--------------------------------------------------
+PID: 29700
+Name: msedgewebview2.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:42:52
+CPU %: 0.00
+Memory %: 0.04
+RSS (Actual Memory): 6164480 bytes
+VMS (Virtual Memory): 13234176 bytes
+Thread Count: 23
+Open Files: 19
+--------------------------------------------------
+PID: 29748
+Name: LenovoVantage-(GenericMessagingAddin).exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:46:22
+CPU %: 0.10
+Memory %: 0.08
+RSS (Actual Memory): 12791808 bytes
+VMS (Virtual Memory): 40480768 bytes
+Thread Count: 17
+Open Files: 55
+--------------------------------------------------
+PID: 29788
+Name: chrome.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 18:05:28
+CPU %: 0.20
+Memory %: 0.35
+RSS (Actual Memory): 58593280 bytes
+VMS (Virtual Memory): 31256576 bytes
+Thread Count: 21
+Open Files: 9
+--------------------------------------------------
+PID: 30092
+Name: SmartSenseController.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:21
+CPU %: 0.00
+Memory %: 0.07
+RSS (Actual Memory): 11083776 bytes
+VMS (Virtual Memory): 2121728 bytes
+Thread Count: 3
+Open Files: 0
+--------------------------------------------------
+PID: 30104
+Name: ms-teams.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:42:51
+CPU %: 0.00
+Memory %: 0.13
+RSS (Actual Memory): 22597632 bytes
+VMS (Virtual Memory): 36761600 bytes
+Thread Count: 64
+Open Files: 22
+--------------------------------------------------
+PID: 30400
+Name: msedgewebview2.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:25
+CPU %: 0.00
+Memory %: 0.05
+RSS (Actual Memory): 9129984 bytes
+VMS (Virtual Memory): 14692352 bytes
+Thread Count: 23
+Open Files: 19
+--------------------------------------------------
+PID: 30484
+Name: msedgewebview2.exe
+Username: SIDDHI\siddh
+Status: running
+Start Time: 2026-02-24 17:41:25
+CPU %: 0.00
+Memory %: 0.00
+RSS (Actual Memory): 16384 bytes
+VMS (Virtual Memory): 10760192 bytes
+Thread Count: 10
+Open Files: 16
+--------------------------------------------------
+
+SUMMARY
+Total Processes: 147
+Top Memory Process: explorer.exe
+--------------------------------------------------
+End of Log File
+--------------------------------------------------
